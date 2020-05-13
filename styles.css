@@ -53,3 +53,19 @@ main {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.card__content {
+  padding: 20px;
+}
+
+.card__title {
+  margin-bottom: 20px;
+}
+
+.card__info {
+  display: flex;
+}
+
+.card__price {
+  margin-left: auto;
+}
